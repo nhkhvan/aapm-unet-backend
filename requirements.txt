@@ -1,10 +1,4 @@
-torch --index-url https://download.pytorch.org/whl/cpu
-scikit-image
-numpy
-fastapi
-uvicorn
-python-multipart
-huggingface_hubtorch --index-url https://download.pytorch.org/whl/cpu
+torch
 scikit-image
 numpy
 fastapi
